@@ -29,8 +29,8 @@ Technologies Used : <ALL LIBRARIES/TECHNOLOGIES USED>
 
 Link to ZIP : <GOOGLE DRIVE LINK WITH VIEW ACCESS / KEEP BLANK IF ATTACHED ZIP TO MAIL>
 
-HELP
+# HELP
 For any queries or questions please Raise a “New Issue” at https://github.com/orientallabs/AssessmentJuniorDeveloper/issues (Issues section of this repo) or mail directly at hr@labkafe.com , we will get back to you as soon as possible.
 
-DEADLINE
+# DEADLINE
 The task will expire 30 hours after you have received your respective mails containing this problem statement. Any submissions after the deadline won’t be acknowledged.
